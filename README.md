@@ -3,12 +3,13 @@
 
 Dio Metotları ve Dio Interceptor sınıfının kullanımı.
 
-<img src="https://storage.cloud.google.com/githubzeministanbul/Ekran%20Resmi%202022-09-07%2023.48.04.png" width="15%"></img> 
+<img src="Ekran Resmi 2022-09-07 23.47.44.png" width="25%"></img> 
 
 
-![Screenshot](https://storage.cloud.google.com/githubzeministanbul/Ekran%20Resmi%202022-09-07%2023.48.04.png)
+<img src="Ekran Resmi 2022-09-07 23.48.04.png" width="25%"></img> 
 
-![Screenshot](https://storage.cloud.google.com/githubzeministanbul/Ekran%20Resmi%202022-09-07%2023.48.21.png)
+
+<img src="Ekran Resmi 2022-09-07 23.48.21.png" width="25%"></img> 
 
 
 ## İçerik
